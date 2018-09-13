@@ -1,0 +1,38 @@
+Think about objects as collection of both data and the methods that operate on that data
+
+Abstract Data Type:
+set of objects and the operations on those objects
+
+Methods:
+When a function definition occurs within a class definition, de defined function is called
+a method and is associated with the class
+
+Classes support two types of operations:
+1. Instantiation is used to create instances of the class
+    s = IntSet() creates a new object of type IntSet, this object is called an instance of IntSet
+2. Attributes references use dot notation to acces attributes associated with the class, for example s.member refers to the method member associated with the instance s of type IntSet
+
+
+class IntSet(object) means IntSet is a subclass of object
+
+__init__
+whenever a class is instantiated, a call is made to the __init__ method defined in that class
+
+when s = IntSet() is excecuted, the interpreter will create a new instance of type IntSet and then call IntSet.__init__
+
+Methods:
+When a function definition occurs within a class definition, de defined function is called
+a method and is associated with the class
+
+Classes support two types of operations:
+1. Instantiation is used to create instances of the class
+    s = IntSet() creates a new object of type IntSet, this object is called an instance of IntSet
+2. Attributes references use dot notation to acces attributes associated with the class, for example s.member refers to the method member associated with the instance s of type IntSet
+
+
+class IntSet(object) means IntSet is a subclass of object
+
+__init__
+whenever a class is instantiated, a call is made to the __init__ method defined in that class
+
+when s = IntSet() is excecuted, the interpreter will create a new instance of type IntSet and then call IntSet.__init__
