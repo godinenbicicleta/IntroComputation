@@ -1,0 +1,15 @@
+1. Constant Complexity
+
+2. Logarithmic Complexity O(log(n))
+  It grows really slow, almost like linear
+  Example: Binary Search
+
+3. Linear Complexity O(n)
+
+4. O( nlog(n) ) Log Linear
+  Example merge sort
+
+5. Polynomial
+
+6. Exponential
+
